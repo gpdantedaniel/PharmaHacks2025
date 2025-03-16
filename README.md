@@ -6,5 +6,5 @@ This project aims to develop a predictive model for Multiple Sequence Alignment 
 The dataset used for this project is loaded from a pickle file named `data_hackaton_train.data` provided to us. It underwent an 80/20 test-split to test our model before receiving the testing data.
 
 ## Usage
-To use the model with a new dataset, run the `for_judges.py` Jupyter Notebook and link your desired dataset.
+To use the model with a new dataset, run the `for_judges.py` Jupyter Notebook and link your desired dataset or simply use the Google Collab: https://colab.research.google.com/drive/1NZp7MRYnbJf7i8haVR4bXVkjgbQrufJj.
   
