@@ -7,4 +7,4 @@ The dataset used for this project is loaded from a pickle file named `data_hacka
 
 ## Usage
 To use the model with a new dataset, run the `for_judges.py` Jupyter Notebook and link your desired dataset or simply use the Google Collab: https://colab.research.google.com/drive/1NZp7MRYnbJf7i8haVR4bXVkjgbQrufJj.
-  
+The `starter_notebook.ipynb` contains the training code.
